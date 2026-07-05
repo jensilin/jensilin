@@ -12,12 +12,12 @@ Building automation that powers networks, and exploring AI along the way 🚀
 
 ## About me
 
-- 🔭 Currently working on **Optus Performance Management (PM)** in the **OSS/FCAPS** domain at **TCS**
+- 🔭 Currently working on **Performance Management (PM)** in the **OSS/FCAPS** domain at **TCS**
 - 🐍 My strongest skill is **Python** — parsers, automation, data processing
 - 📡 Deep hands-on experience with **telecom mediation**: PM file parsing, XML generation, CSV processing, KPI mapping
 - 🌱 Currently leveling up in **Advanced Python, AI/ML, and automation**
 - 💬 Ask me about Python, telecom OSS, Docker/Kubernetes, or Apache NiFi
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-linkedin-handle) · [Portfolio](https://your-portfolio.vercel.app)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jensilin-jino/) · [Portfolio](https://portfolio-omega-three-gebm7nwsru.vercel.app/)
 
 <br>
 
