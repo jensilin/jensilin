@@ -42,8 +42,8 @@ Building automation that powers networks, and exploring AI along the way 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jensilin&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensilin&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=jensilin&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jensilin&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 
 </div>
 
