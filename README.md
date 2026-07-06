@@ -12,8 +12,8 @@ Building automation that powers networks, and exploring AI along the way 🚀
 
 ## About me
 
-- 🔭 Currently working on **Performance Management (PM)** in the **OSS/FCAPS** domain at **TCS**
-- 🐍 My strongest skill is **Python** — parsers, automation, data processing
+- 🔭 Currently working on **Performance Management (PM)** in the **OSS/FCAPS** domain.
+- 🐍 My strongest skill is **Python** — automation, data processing
 - 📡 Deep hands-on experience with **telecom mediation**: PM file parsing, XML generation, CSV processing, KPI mapping
 - 🌱 Currently leveling up in **Advanced Python, AI/ML, and automation**
 - 💬 Ask me about Python, telecom OSS, Docker/Kubernetes, or Apache NiFi
