@@ -16,7 +16,7 @@ Building automation that powers networks, and exploring AI along the way 🚀
 - 🐍 My strongest skill is **Python** — automation, data processing
 - 📡 Deep hands-on experience with **telecom mediation**: PM file parsing, XML generation, CSV processing, KPI mapping
 - 🌱 Currently leveling up in **Advanced Python, AI/ML, and automation**
-- 💬 Ask me about Python, telecom OSS, Docker/Kubernetes, or Apache NiFi
+- 💬 Ask me about Python, telecom OSS, Docker/Kubernetes, Apache NiFi
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jensilin-jino/) · [Portfolio](https://portfolio-omega-three-gebm7nwsru.vercel.app/)
 
 <br>
