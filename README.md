@@ -49,7 +49,7 @@ Building automation that powers networks, and exploring AI along the way 🚀
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jensilin&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jensilin&theme=tokyonight&hide_border=true&cache_seconds=1)
 
 </div>
 
